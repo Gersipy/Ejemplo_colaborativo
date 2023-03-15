@@ -11,6 +11,7 @@ package com.mycompany.nuevoproyecto;
 public class Nuevoproyecto {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        //TODO code aolication logic here
+        System.out.println("Ejemple de colaboradores");
     }
 }
